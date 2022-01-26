@@ -1,0 +1,68 @@
+
+h1
+{
+    color:rgb(209, 25, 25);
+    text-align: center;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+a:link, a:visited{
+    color: rgb(72, 17, 175);
+    text-decoration: none;
+    margin-right: 10px 
+}
+
+#wrap{
+    width: 960px;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+
+ul {
+    color:#c7180c;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+  }
+
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    float: left;
+  }
+
+  .container {
+    
+    background-color: #f2f2f2;
+    padding: 40px;
+  }
+
+  input[type=text] {
+    width: 80%;
+    
+  }
+
+  input[type=email] {
+    width: 100%;
+    
+  }
+
+  
+  footer {
+       text-align: center;
+  }
